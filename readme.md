@@ -115,14 +115,14 @@
 [🔗 View Repository](https://github.com/akankshyamondal612/system-monitor)
 
 
-📊 GitHub Statistics
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=bitbysriram&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akankshyamondal612&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshyamondal612&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p><p align="center">
-<img src="https://streak-stats.demolab.com?user=akankshyamondal612&theme=tokyonight&hide_border=true"/>
-</p>---
+![](https://github-readme-streak-stats.herokuapp.com/?user=bitbysriram&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bitbysriram&theme=dark&hide_border=true&layout=compact)
+
+-
 
 🎯 Current Focus
 
