@@ -1,4 +1,4 @@
-H<h1 align="center">
+<h1 align="center">
   <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="55">
   <b>Hi, I'm Akankshya Mondal</b>
 </h1>
@@ -10,7 +10,7 @@ H<h1 align="center">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akankshyamondal612&style=flat-square&color=blue" alt="Profile Views">
 </p>
----
+
 
 ### 🌐 Connect With Me
 
